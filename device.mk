@@ -7,6 +7,9 @@ PRODUCT_TARGET_VNDK_VERSION := 30
 # Dynamic partitions setup
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
+PRODUCT_BOARD_PLATFORM := sm6150                                                                                                                 148 ↵
+PRODUCT_USES_QCOM_HARDWARE := true
+
 # AAPT
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
